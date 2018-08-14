@@ -1,0 +1,9 @@
+Git Commands And Their Functions
+1.)git status - The git status command displays the state of the working directory 
+2.)git clone - git clone is primarily used to point to an existing repo and make a clone or copy of that repo in a new directory, at another location
+3.)git add - adds all modified and new (untracked) files in the current directory and all subdirectories to the staging area
+4.)git commit –m -  This command is used to commit the change made in the file that is to be added to the repository.
+5.) git push –u origin master - The git push command is used to upload local repository content to a remote repository.
+6.)git config - -global user.name “ ”
+7.)git config - -global user.email “ ”
+
